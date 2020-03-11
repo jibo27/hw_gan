@@ -2,6 +2,7 @@ import os
 import pickle
 import numpy as np
 import random
+import xml.etree.ElementTree as ET
 import torch
 import torch.nn.functional as F
 
